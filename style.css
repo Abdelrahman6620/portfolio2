@@ -1,0 +1,121 @@
+.customNavbar
+{
+    background-color: white;
+}
+.purple
+{background-color: rgb(76, 31, 89);
+color: white;
+}
+
+.backGround {
+  color: white;
+  background-image: url('ceramics.jpg'); 
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position: center; /* Centers the image */
+  width: 100%; /* Makes the div full width */
+  height: 400px; /* Adjust the height as needed */
+  display: flex; /* Optional: allows centering content */
+  justify-content: center; /* Optional: centers content horizontally */
+  align-items: center; /* Optional: centers content vertically */
+  text-align: center; 
+}
+ 
+  .crossed
+  {
+color: rgb(145, 142, 142);
+text-decoration: line-through;
+  }
+  .backGround2
+  {
+    background-image:url('backGround2.jpg');
+    background-size: cover; /* Ensures the image covers the entire element */
+          background-position: center; /* Centers the image within the element */
+          background-repeat: no-repeat; /* Prevents the image from repeating */
+          height: 100vh;
+          color: white;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+    }
+    .backGround2 h1 {
+      margin-bottom: 20px; /* Adjust spacing */
+      font-size: 5rem; 
+  }
+
+    .backGround2 h5 {
+      margin-bottom: 20px; /* Adjust spacing */
+    }
+    .backGround2 button {
+      margin-top: 10px; /* Adjust spacing */
+    }
+    .learn
+    {
+      color: white;
+      background-color: #4c1f59;
+      border: none;  
+      border-radius: 7px;
+    }
+    .image
+  {
+    width: 400px;
+    height:350px;
+  }
+  .backGround3
+  {
+    background-image:url('backGround3.jpg');
+    background-size: cover; /* Ensures the image covers the entire element */
+          background-position: center; /* Centers the image within the element */
+          background-repeat: no-repeat; /* Prevents the image from repeating */
+          height: 100vh;
+          color: white;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+    }
+    .backGround3 h1 {
+      margin-bottom: 20px; /* Adjust spacing */
+      font-size: 5rem; 
+  }
+    .backGround3 h5 {
+      margin-bottom: 20px; /* Adjust spacing */
+    }
+    .backGround3 button {
+      margin-top: 10px; /* Adjust spacing */
+    }
+    
+    
+  .c
+  {
+border: none;
+width: 350px;
+  }
+  .insta
+  {
+    width:420px ;
+  }
+  .footer{
+    background-color:#f1f1f1;
+ min-height: 250px; ;
+  }
+  .socialIcons a
+  {
+    color: black;
+    font-size: 26px;
+  }
+  .footerList
+  {
+    list-style:none;
+  }
+  .footerList a
+  {
+color:#1A1A1A;
+font-size: 18px;
+  }
+.bi
+{
+  text-decoration: none;
+  border: none;
+}
